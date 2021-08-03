@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  background: url("./images/background.jpg");
+  
+}
+.container{
+  max-width:998px;
+  width:70%;
+  margin:10em auto;
+}
